@@ -2,8 +2,8 @@ platform:
   - x86
 
 environment:
-  FORK_USER: ocaml
-  FORK_BRANCH: master
+  FORK_USER: jpdeplaix
+  FORK_BRANCH: jsonm
   CYG_ROOT: C:\cygwin64
   PACKAGE: github-unix
   PINS: github.dev:. github-unix.dev:.
