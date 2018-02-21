@@ -3,7 +3,7 @@ platform:
 
 environment:
   FORK_USER: jpdeplaix
-  FORK_BRANCH: jsonm
+  FORK_BRANCH: master
   CYG_ROOT: C:\cygwin64
   PACKAGE: github-unix
   PINS: github.dev:. github-unix.dev:.
